@@ -32,12 +32,9 @@ When I'm not coding, you’ll find me sketching system diagrams or diving deep i
 ## 📫 Let’s Connect
 
 - 📧 **Email:** [loariftech@gmail.com](mailto:loariftech@gmail.com)
-- 💼 **LinkedIn:** [www.linkedin.com/in/firaol-ayana-8aba05265
-
-](www.linkedin.com/in/firaol-ayana-8aba05265
+- 💼 **LinkedIn:** [www.linkedin.com/in/firaol-ayana-8aba05265]
 
 )
-- 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 
 ---
 
