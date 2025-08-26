@@ -1,45 +1,25 @@
-# 👋 Hey, I'm Firaol Ayana! 🚀
+Firaol Ayana
+Full-Stack Developer | Software Architecture Enthusiast
 
-🌟 **Full-Stack Developer** | **Flutter Enthusiast** | **Software Architecture Aficionado**
+I am a software developer dedicated to building scalable, efficient, and well-designed systems. With experience in React, Node.js, Flutter, and MongoDB, I create seamless web and mobile applications that solve real-world problems. My passion for software architecture drives me to write clean, maintainable code and design robust solutions.
 
----
+What I Do
+Full-Stack Development: Building applications with React, Tailwind CSS, Node.js, and Express.
 
-I'm a passionate coder dedicated to crafting **scalable**, **efficient**, and **innovative systems** from the ground up. With hands-on expertise in **React**, **Node.js**, **Flutter**, and **MongoDB**, I create seamless web and mobile experiences that solve real-world problems and delight users. My love for **software architecture** fuels my drive to design robust, maintainable, and high-performance solutions.
+Mobile App Development: Creating cross-platform mobile apps with Flutter for a native-like user experience.
 
----
+System Architecture: Designing scalable and high-performance systems based on industry best practices.
 
-## 🔧 What I Do
+Problem Solving: Using tools like Zod, Vite, and Render to overcome complex development challenges.
 
-- 🖥️ **Full-stack development** with **React**, **Tailwind CSS**, **Node.js**, and **Express**
-- 📱 **Cross-platform mobile apps** with **Flutter** for sleek, native-like experiences
-- 🏛️ **Architecting scalable systems** with clean code & industry best practices
-- 🛠️ Solving complex challenges with tools like **Zod**, **Vite**, and **Render**
+Collaboration
+I am always open to collaborating with creative and innovative teams on ambitious projects. Whether it's a healthcare platform like MediConnect or a new startup idea, I am ready to contribute my skills to build systems that make an impact.
 
----
+When I'm not coding, I enjoy sketching system diagrams and exploring the latest trends in microservices and cloud architecture. Let’s build the future together.
 
-## 🌍 Collaboration Is Key
+Let’s Connect
+Email: loariftech@gmail.com
 
-I'm always excited to team up with creative minds and innovators to build **ambitious, impactful projects**. Whether it's a healthcare platform like **MediConnect** or the next big startup idea, I’m ready to bring my skills and vision to help craft systems that scale and shine.
+LinkedIn: www.linkedin.com/in/firaol-ayana-8aba05265
 
----
-
-## 💡 Fun Fact
-
-When I'm not coding, you’ll find me sketching system diagrams or diving deep into the latest trends in **microservices** and **cloud architecture**. Let’s architect the future together!
-
----
-
-## 📫 Let’s Connect
-
-- 📧 **Email:** [loariftech@gmail.com](mailto:loariftech@gmail.com)
-- 💼 **LinkedIn:** [www.linkedin.com/in/firaol-ayana-8aba05265]
-
-)
-
----
-
-> *“Code is poetry, architecture is art, and collaboration is the spark that builds the future.”*
-
----
-
-⭐ **Check out my pinned repositories below for projects like [MediConnect](#), a full-stack hospital management system, and more! Let’s build something epic together! 🚀**
+Check out my pinned repositories below, including MediConnect, a full-stack hospital management system. I'd love to build something great with you.
