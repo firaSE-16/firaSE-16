@@ -54,44 +54,19 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <!-- Programming Languages in 2 Columns -->
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://dart.dev" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://golang.org/" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        </a>
-      </td>
-      <td align="center">
-        <!-- Add more languages here if needed -->
-      </td>
-    </tr>
-  </table>
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=firaSE-16&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+       alt="GitHub Stats" width="48%" style="border-radius:12px;"/>
+  
+  <!-- Top Languages Column 1 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaSE-16&theme=tokyonight&langs_count=5&hide_border=false" 
+       alt="Top Languages 1" width="23%" style="border-radius:12px;"/>
+  
+  <!-- Top Languages Column 2 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaSE-16&theme=tokyonight&langs_count=5&hide_border=false&exclude_repo=repo_to_exclude_if_needed" 
+       alt="Top Languages 2" width="23%" style="border-radius:12px;"/>
 </p>
+
 
 
 
