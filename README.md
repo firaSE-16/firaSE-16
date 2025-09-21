@@ -13,15 +13,36 @@
 ### 🔧 Technologies & Tools
 
 <p align="center">
+  <!-- Programming Languages -->
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+  <a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+</p>
+
+<p align="center">
+  <!-- Frameworks -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
-  <a href="https://www.flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
+  <a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"></a>
+  <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gin-00AEE7?style=for-the-badge&logo=go&logoColor=white" alt="Gin"></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"></a>
 </p>
+
+<p align="center">
+  <!-- DevOps Tools & Concepts -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
+  <a href="https://microservices.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microservices-FF6F61?style=for-the-badge&logo=architecture&logoColor=white" alt="Microservices"></a>
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"></a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"></a>
+</p>
+
 
 ---
 
