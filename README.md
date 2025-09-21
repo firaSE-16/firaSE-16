@@ -56,14 +56,14 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Firaol-Ayana&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&title_color=ff79c6&icon_color=50fa7b&text_color=f8f8f2&bg_color=1e1e2e" alt="Firaol's GitHub Stats" width="49%" style="border-radius:12px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=firaSE-16&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&title_color=ff79c6&icon_color=50fa7b&text_color=f8f8f2&bg_color=1e1e2e" alt="Firaol's GitHub Stats" width="49%" style="border-radius:12px;"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firaol-Ayana&layout=compact&theme=tokyonight&hide_border=false&title_color=ff79c6&bg_color=1e1e2e&text_color=f8f8f2&langs_count=10" alt="Firaol's Top Languages" width="49%" style="border-radius:12px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaSE-16&layout=compact&theme=tokyonight&hide_border=false&title_color=ff79c6&bg_color=1e1e2e&text_color=f8f8f2&langs_count=10" alt="Firaol's Top Languages" width="49%" style="border-radius:12px;"/>
 </p>
 
 <p align="center">
   <!-- Extra Stats / Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Firaol-Ayana&theme=tokyonight&hide_border=false&background=1e1e2e&fire=ff5555&currStreakLabel=50fa7b&sideLabels=f8f8f2" alt="Firaol's GitHub Streak" width="65%" style="border-radius:12px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firaSE-16&theme=tokyonight&hide_border=false&background=1e1e2e&fire=ff5555&currStreakLabel=50fa7b&sideLabels=f8f8f2" alt="Firaol's GitHub Streak" width="65%" style="border-radius:12px;"/>
 </p>
 
 ---
