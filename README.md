@@ -53,25 +53,23 @@
 ---
 
 ### 📊 My GitHub Stats
-
 <!-- GitHub Stats Section -->
 <p align="center">
   <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=firaSE-16&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&title_color=ff79c6&icon_color=50fa7b&text_color=f8f8f2&bg_color=1e1e2e" 
-       alt="Firaol's GitHub Stats" style="border-radius:12px; width:100%; max-width:900px;"/>
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firaSE-16&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+       alt="Firaol's GitHub Stats" style="border-radius:12px; width:48%;"/>
+  
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaSE-16&theme=tokyonight&langs_count=10&hide_border=false&title_color=ff79c6&text_color=f8f8f2&bg_color=1e1e2e" 
-       alt="Firaol's Top Languages" style="border-radius:12px; width:100%; max-width:900px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaSE-16&theme=tokyonight&langs_count=10&hide_border=false" 
+       alt="Firaol's Top Languages" style="border-radius:12px; width:48%;"/>
 </p>
 
 <p align="center">
   <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firaSE-16&theme=tokyonight&hide_border=false&background=1e1e2e&fire=ff5555&currStreakLabel=50fa7b&sideLabels=f8f8f2" 
-       alt="Firaol's GitHub Streak" style="border-radius:12px; width:100%; max-width:900px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firaSE-16&theme=tokyonight&hide_border=false" 
+       alt="Firaol's GitHub Streak" style="border-radius:12px; width:50%;"/>
 </p>
+
 
 
 ---
