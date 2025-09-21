@@ -58,13 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=firaSE-16&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
        alt="GitHub Stats" width="48%" style="border-radius:12px;"/>
   
-  <!-- Top Languages Column 1 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaSE-16&theme=tokyonight&langs_count=5&hide_border=false" 
-       alt="Top Languages 1" width="23%" style="border-radius:12px;"/>
-  
-  <!-- Top Languages Column 2 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaSE-16&theme=tokyonight&langs_count=5&hide_border=false&exclude_repo=repo_to_exclude_if_needed" 
-       alt="Top Languages 2" width="23%" style="border-radius:12px;"/>
+
 </p>
 
 
