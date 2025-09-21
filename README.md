@@ -53,22 +53,46 @@
 ---
 
 ### 📊 My GitHub Stats
-<!-- GitHub Stats Section -->
 <p align="center">
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=firaSE-16&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
-       alt="Firaol's GitHub Stats" style="border-radius:12px; width:48%;"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaSE-16&theme=tokyonight&langs_count=10&hide_border=false" 
-       alt="Firaol's Top Languages" style="border-radius:12px; width:48%;"/>
+  <!-- Programming Languages in 2 Columns -->
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://dart.dev" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://golang.org/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        </a>
+      </td>
+      <td align="center">
+        <!-- Add more languages here if needed -->
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firaSE-16&theme=tokyonight&hide_border=false" 
-       alt="Firaol's GitHub Streak" style="border-radius:12px; width:50%;"/>
-</p>
 
 
 
