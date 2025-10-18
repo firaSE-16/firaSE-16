@@ -25,7 +25,7 @@
   <!-- Frameworks -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
-  <a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"></a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
   <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gin-00AEE7?style=for-the-badge&logo=go&logoColor=white" alt="Gin"></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
